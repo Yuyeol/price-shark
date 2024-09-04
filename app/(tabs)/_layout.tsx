@@ -30,6 +30,18 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="mypage"
+        options={{
+          title: "마이페이지",
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon
+              name={focused ? "person" : "person-outline"}
+              color={color}
+            />
+          ),
+        }}
+      />
     </Tabs>
   );
 }
