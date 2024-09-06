@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679529008809",
+    "project_id": "price-shark-f2425",
+    "storage_bucket": "price-shark-f2425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679529008809:android:406aa588a7cb71c97c63b8",
+        "android_client_info": {
+          "package_name": "com.ure.priceShark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekYCFlAv5OnqMZAN47ZLx7xovpjEx_PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
